@@ -52,7 +52,7 @@
 [![Top Languages by Commit](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=FaraziF&theme=github_dark)](https://github.com/FaraziF)
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=FaraziF&show_icons=true&theme=github_dark)](https://github.com/FaraziF)
-[![GitHub Streak](https://streak-stats.demolab.com?user=FaraziF&theme=dark&border_radius=5)](https://github.com/FaraziF)
+<!-- [![GitHub Streak](https://streak-stats.demolab.com?user=FaraziF&theme=dark&border_radius=5)](https://github.com/FaraziF) -->
 
 [![Commits by UTC](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=FaraziF&theme=github_dark&utcOffset=+6)](https://github.com/FaraziF)
 
