@@ -4,19 +4,13 @@
 
 💡 Passionate about using **AI in software testing** — from test case generation to automation optimization. Experienced in building robust automation tests using Playwright and TypeScript. Focused on shift-left testing to catch issues early, ensuring seamless system performance and reducing post-release bugs.
 
-🧪 Currently exploring:
+🧪 **Currently exploring**
 - Generative AI for QA (ChatGPT, GPT4ALL, Claude)
 - Custom Python BDD frameworks
 - CI pipelines for scalable test automation
 
-🔧 **Core Tools & Tech Stack**
-- 🧩 Playwright, Selenium, Codeception, CodeceptJS
-- 🛠️ Javascript, Typescript, Python, BDD, GitHub Actions
-- 🤖 ChatGPT, Claude, Copilot, Cursor, GPT4ALL
-- ⚙️ K6, Postman, REST API, WordPress, WooCommerce
-
 📦 **Notable QA Projects**
-- QA Automation for **Dokan & Dokan Cloud**
+- QA Automation for **Dokan & Dokan Cloud** Multivendor Marketplace
 - Custom BDD Framework (Python)
 - AI-driven Test Plan Generator using GPT models
 - E2E + API automation suite for SaaS products
@@ -33,6 +27,8 @@
 ![BDD](https://img.shields.io/badge/BDD-7952B3?style=flat&logo=cucumber&logoColor=white)
 ![Cucumber](https://img.shields.io/badge/Cucumber-23D96C?style=flat&logo=cucumber&logoColor=white)
 ![K6](https://img.shields.io/badge/k6-7D64FF?style=for-the-badge)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat&logo=wordpress&logoColor=white)
+![WooCommerce](https://img.shields.io/badge/WooCommerce-96588A?style=flat&logo=woocommerce&logoColor=white)
 
 
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-10A37F?style=flat&logo=openai&logoColor=white)
