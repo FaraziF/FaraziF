@@ -1,15 +1,25 @@
 # 👋 Hi, I'm Farazi Forhad
 
-<h3 align="center">🚀 Senior QA Engineer | AI-Driven Testing | Automation + Manual | WordPress & SaaS Specialist </h3>
-<h5 align="center">"Focused on shift-left testing to catch issues early, ensuring seamless system performance and reducing post-release bugs." </h5>
+🎯 **QA Engineering Lead** with 8+ years of experience in Manual + Automation Testing across 10+ WordPress and SaaS products.
 
+💡 Passionate about using **AI in software testing** — from test case generation to automation optimization. Experienced in building robust automation tests using Playwright and TypeScript. Focused on shift-left testing to catch issues early, ensuring seamless system performance and reducing post-release bugs.
 
-### 🎨 About Me
-- 🔬 8+ years of experience in software testing
-- 🛒 Led QA initiatives for over 10 WordPress and SaaS products, including flagship tools like Dokan(Multivendor Marketplace) and WP ERP
-- 🔧 Leading QA team and managing full testing lifecycle
+🧪 Currently exploring:
+- Generative AI for QA (ChatGPT, GPT4ALL, Claude)
+- Custom Python BDD frameworks
+- CI pipelines for scalable test automation
 
+🔧 **Core Tools & Tech Stack**
+- 🧩 Playwright, Selenium, Codeception, CodeceptJS
+- 🛠️ Javascript, Typescript, Python, BDD, GitHub Actions
+- 🤖 ChatGPT, Claude, Copilot, Cursor, GPT4ALL
+- ⚙️ K6, Postman, REST API, WordPress, WooCommerce
 
+📦 **Notable QA Projects**
+- QA Automation for **Dokan & Dokan Cloud**
+- Custom BDD Framework (Python)
+- AI-driven Test Plan Generator using GPT models
+- E2E + API automation suite for SaaS products
 
 ### 🛠️ Tech Stack & Tools
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
