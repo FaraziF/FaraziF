@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Farazi Forhad
 
-🎯 **QA Engineering Lead** with 8+ years of experience in Manual + Automation Testing across 10+ WordPress and SaaS products.
+🎯 **QA Engineering Lead** with 9+ years of experience in Manual + Automation Testing across 10+ WordPress and SaaS products.
 
 💡 Passionate about using **AI in software testing** — from test case generation to automation optimization. Experienced in building robust automation tests using Playwright and TypeScript. Focused on shift-left testing to catch issues early, ensuring seamless system performance and reducing post-release bugs.
 
