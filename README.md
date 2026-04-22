@@ -1,8 +1,10 @@
 # 👋 Hi, I'm Farazi Forhad
 
-🎯 **QA Engineering Lead** with 9+ years of experience in Manual + Automation Testing across 10+ WordPress and SaaS products.
+🎯 **QA Engineering Lead & Product Owner** with 9+ years of experience in Manual + Automation Testing WordPress and SaaS products.
 
 💡 Passionate about using **AI in software testing** — from test case generation to automation optimization. Experienced in building robust automation tests using Playwright and TypeScript. Focused on shift-left testing to catch issues early, ensuring seamless system performance and reducing post-release bugs.
+
+QA and Project Manager combining strong expertise with proven project leadership. Experienced in managing cross-functional teams, driving Agile (DSDM/Scrum) processes, and delivering high-quality software within deadlines. Skilled in stakeholder communication, backlog prioritization, sprint execution, and end-to-end product lifecycle management.
 
 🧪 **Currently exploring**
 - Generative AI for QA (ChatGPT, GPT4ALL, Claude)
@@ -14,6 +16,19 @@
 - Custom BDD Framework (Python)
 - AI-driven Test Plan Generator using GPT models
 - E2E + API automation suite for SaaS products
+
+🏆 **Key Achievements**
+- Delivered and managed 200+ releases across 25+ products , ensuring consistent quality and on-time
+delivery.
+- Improved release quality by significantly reducing production defects through strong QA and process
+improvements.
+- Reduced delivery delays and increased efficiency by optimizing sprint planning and backlog
+prioritization .
+- Led and mentored a team of 8+ QA engineers , driving performance and quality standards.
+- Collaborated with 35+ developers and cross-functional teams to ensure smooth and timely
+execution.
+- Improved overall delivery speed by 25% through process optimization and effective coordination.
+- Contributed to scaling SaaS and WordPress products for a global user base.
 
 ### 🛠️ Tech Stack & Tools
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
